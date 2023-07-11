@@ -4,4 +4,6 @@
 
 ## Steps
 
-1. Instalar o APK
+1. Instalar o APK via GOOGLE DRIVE
+
+Link: https://drive.google.com/file/d/1zZhD2kZR0AriwJM6SXk-sRHwSmerDfIt/view?usp=drive_link
